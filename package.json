@@ -1,0 +1,20 @@
+{
+  "name": "noir-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@noir-lang/backend_barretenberg": "^0.26.0",
+    "@noir-lang/noir_js": "^0.26.0",
+    "@noir-lang/noir_wasm": "^0.26.0",
+    "@noir-lang/types": "^0.26.0",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "path": "^0.12.7",
+    "ts-jest": "^29.1.2"
+  }
+}
