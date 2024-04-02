@@ -1,4 +1,4 @@
-import { NoirCircuit } from "./noir";
+import { NoirCircuit } from "./NoirCircuit";
 
 describe("Noir", () => {
   const main = new NoirCircuit();
